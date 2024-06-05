@@ -132,7 +132,27 @@ h2{
     text-align: center;
 }
 
+.linha-verde {
+    border: 0;
+    height: 2px;
+    background: #bdff9c;
+    margin: 20px 0;
+}
 
-/*RODAPÉ*/
+footer {
+    background-color: #f2f2f2;
+    padding: 20px 0;
+    text-align: center;
+}
 
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer-content p {
+    margin: 5px 20px;
+}
 
